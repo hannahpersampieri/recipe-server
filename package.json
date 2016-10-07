@@ -1,10 +1,10 @@
 {
-	"//1": "describes your app and its dependencies",
+	"//1": "Grocery list from chrome extension",
 	"//2": "https://docs.npmjs.com/files/package.json",
 	"//3": "updating this file will download and update your packages",
-	"name": "my-hyperdev-app",
+	"name": "recipe-server",
 	"version": "0.0.1",
-	"description": "What am I about?",
+	"description": "Builds grocery list from recipe data",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
